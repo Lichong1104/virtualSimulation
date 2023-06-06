@@ -6,7 +6,7 @@ function Home() {
     <div className={style.homeBox}>
       <div className={style.topBox}>
         <div className={style.title}>
-          <img src={img} alt="图片" />
+          <img src={img} alt="logo" />
         </div>
       </div>
       <div className={style.content}>
